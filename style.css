@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right, #42f111, #19f5c5);
+}
+
+
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+.not{
+    font-size:15px; 
+    color: black;
+
+}
+.copy_right_footer{
+     background: linear-gradient(to right, #0008f2, #e60505);
+font-size:23px;
+position:fixed;
+color:blue;
+width:100%;
+bottom:0;
+text-align:center;
+text-shadow:rgb(255, 0, 0) 2px 2px
+    }
+    canvas{
+       
+     background: linear-gradient(to right, #ffffff, #000000);
+    }
